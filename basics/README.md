@@ -1,1 +1,2 @@
-Script is making deslapying working directory
+#!/bin/bash
+pwd
